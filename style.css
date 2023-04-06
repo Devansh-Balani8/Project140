@@ -1,0 +1,37 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image{
+    width: 100%;
+}
+#start{
+    font-size: 22px;
+}
+#status{
+    background: white;
+    color: darkgray;
+}
+#restart{
+    background-color: cyan;
+    color: maroon;
+    height: 50px;
+    width: 100px;
+    font-size: 22px;
+    border-radius: 10px;
+}
+h4{
+    margin: 0;
+    width: 100%;
+    background-color: blueviolet;
+    color: black;
+    line-height:2;
+    font-size: 30px;
+}
